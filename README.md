@@ -20,9 +20,6 @@ A desktop-based Student Management System built using Python, Tkinter, and MySQL
 - MySQL
 - mysql-connector-python
 
-## 📸 Screenshots
-
-(Add your screenshots here later)
 
 ## ▶️ How to Run
 
